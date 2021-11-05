@@ -1,5 +1,10 @@
 # vue-route
 
+# Instalar node:
+https://nodejs.org/es/download/
+
+# Luego dentro de la carpeta raiz del proyecto ejecutar los siguientes comandos:
+
 ## Project setup
 ```
 npm install
